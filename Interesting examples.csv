@@ -1,10 +1,21 @@
 title,org,url
-,,
-,,
-,,
 How We Analyzed the COMPAS Recidivism Algorithm,ProPublica,https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm
 Spies in the Skies,BuzzFeed,https://github.com/BuzzFeedNews/2016-04-federal-surveillance-planes
 ,NYT,http://www.nytimes.com/2014/04/23/upshot/meet-leo-our-senate-model.html?_r=0
+Washington Post police shootings,https://github.com/washingtonpost/data-police-shootings
 ,NYT,https://github.com/TheUpshot/leo-senate-model
 ,NYT,https://github.com/NYTimes/gunsales
 ,538,https://github.com/fivethirtyeight/uber-tlc-foil-response
+zzolo/so-you-want-to-open-some-data,WNYC,"An attempt at a recommendation for how to release your data openly for those starting from scratch (in a technical, not policy, sense)."
+https://github.com/wraldata/job-promises-data
+themarshallproject/tx-prosecutions,"Data and methodology behind our ""Preying on Prisoners"" story on June 17, 2015.
+TheUpshot/nyt_weddings,List of New York Times wedding announcements used in an Upshot story on name-changing.
+thunderdome-data/heroin-table,"Table of drug overdose death investigation data, to accompany our story on heroin deaths."
+zzolo/minneapolis-robberies,Examples of data visualization and analysis of Minneapolis robberies
+NYTimes/gunsales,Statistical analysis of monthly background checks of gun purchases
+nbedi/college-president-pay,Scripts and data used for analysis on the 'competitiveness' of university president pay
+MinnPost/minnpost-marriage-analysis,"A look at marriages in Minnesota, specifically given the new same-sex marriage laws."
+jsvine/data-tactics,Half-baked idea: Conceptual building blocks for data analysis.
+fgregg/jail-analysis,Analyses of Cook County Jail Data
+Quartz/central-africa,(things) Central Africa locator map for statistical capacity story.
+BuzzFeedNews/2015-12-fatal-police-shootings," The data and analysis referenced in the Dec. 7, 2015 BuzzFeed News article, ""Here's What We Know About Race And Killings By Police."" http://www.buzzfeed.com/peteraldhous/race-and-police-shootings"
